@@ -1,8 +1,6 @@
 package com.lesson.first.HW_2;
 
-import java.awt.image.BufferStrategy;
-import java.nio.Buffer;
-import java.util.Arrays;
+
 
 public class Main {
     public static void main(String[] args) {
